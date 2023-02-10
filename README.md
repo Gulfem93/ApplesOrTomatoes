@@ -1,1 +1,1 @@
-# ApplesOrTomatoes
+# Apples and Tomatoes LogisticRegression
